@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/users",
+    "bodyPatterns": [
+      {
+        "absentJsonPath": "$.password"
+      },
+      {
+        "absentJsonPath": "$.fullname"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "post_user_ko_1.json"
+  }
+}

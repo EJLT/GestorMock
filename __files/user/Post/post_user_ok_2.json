@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "username": "JohnDoe",
+  "password": "5678",
+  "fullname": "John",
+  "email": "john@example.com",
+  "registrationDate": "2024-02-10"
+}
