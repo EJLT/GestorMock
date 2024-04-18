@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "title": "Nueva publicación",
+  "content": "Contenido de la nueva publicación",
+  "user": {
+    "id": 1
+  },
+  "category": {
+    "id": 1
+  },
+  "tags": [
+    {
+      "id": 1
+    }
+  ],
+  "creationDate": "2024-04-18T16:22:22.353Z",
+  "comments": [
+    {
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "username": "AnaSV",
+    "password": "1234",
+    "fullname": "Ana Martinez",
+    "email": "AnaMartinez#@svalero.com",
+    "registrationDate": "2024-01-05"
+  },
+  {
+    "id": 2,
+    "username": "EduardoSV",
+    "password": "ZGZ",
+    "fullname": "Eduardo Laborda",
+    "email": "eduardikolaborda@gmail.com",
+    "registrationDate": "2024-01-05"
+  },
+  {
+    "id": 3,
+    "username": "OscarGilSV",
+    "password": "papu",
+    "fullname": "Oscar Gil",
+    "email": "OscarGil@svaler.com",
+    "registrationDate": "2024-01-05"
+  }
+
+]

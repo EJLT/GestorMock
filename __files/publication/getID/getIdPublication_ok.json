@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "title": "Example Publication",
+  "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "user": {
+    "id": 1
+  },
+  "category": {
+    "id": 1
+  },
+  "tags": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ],
+  "creationDate": "2024-04-18T18:03:55.269Z",
+  "comments": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ]
+}

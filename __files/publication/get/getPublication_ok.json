@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Cuartos de final de la champions",
+    "content": "Manchester City vs Real Madrid",
+    "user": {
+      "id": 1
+    },
+    "category": {
+      "id": 1
+    },
+    "tags": [
+      {
+        "id": 1
+      }
+    ],
+    "creationDate": "2024-04-17T18:28:35.328Z",
+    "comments": [
+      {
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cuartos de final de la champions",
+    "content": "Bayern Munich vs Arsenal",
+    "user": {
+      "id": 2
+    },
+    "category": {
+      "id": 2
+    },
+    "tags": [
+      {
+        "id": 2
+      }
+    ],
+    "creationDate": "2024-04-18T08:12:45.567Z",
+    "comments": [
+      {
+        "id": 2
+      }
+    ]
+  }
+]

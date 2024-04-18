@@ -1,0 +1,14 @@
+
+{
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/users/2"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "users/put/putUsers_ko3.json"
+  }
+}

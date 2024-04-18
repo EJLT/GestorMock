@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "username": "nuevo_usuario",
+  "password": "nueva_contraseña",
+  "fullname": "Nuevo Nombre",
+  "email": "nuevo_email@example.com"
+}
